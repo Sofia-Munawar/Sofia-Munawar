@@ -36,5 +36,4 @@ My work includes transformer-based NLP models such as T5 and GPT architectures, 
 ## Connect With Me
 
 * LinkedIn: Add your LinkedIn link
-* Email: [hmunawar252@gmail.com](mailto:hmunawar252@gmail.com)
 * Email: [2023msds13@student.uet.edu.pk](mailto:2023msds13@student.uet.edu.pk)
